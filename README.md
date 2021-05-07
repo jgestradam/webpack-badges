@@ -1,1 +1,1 @@
-# webpack-badges
+# curso-webpack
